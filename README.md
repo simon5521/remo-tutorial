@@ -19,5 +19,6 @@ Use this method to create your documentations throughout the semester.
 6. Look at the first PR again. See if there is a merge issue (there should be).
 7. In SmartGit, checkout the branch corresponding to the first PR. Try and merge (or rebase) main into this branch. Recognize there is a merge issue (there should be).
 8. Using LemonTree (from within SmartGit), solve the merge issue by choosing one of the modifications (doesn't matter which). Commit and push the results. Merge the PR.
+szerkesztes
 
  
